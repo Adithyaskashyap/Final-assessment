@@ -11,5 +11,5 @@ def print_pattern():
                     print(i + 2, end='')  
                 else:
                     print(i + 1, end='') 
-            print() 
+        print() 
 print_pattern()
