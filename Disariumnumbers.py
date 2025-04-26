@@ -12,4 +12,4 @@ def disarium_between(a, b):
 n = 10
 print(f"First {n} Disarium numbers:\n{first_n_disarium(n)}")
 a, b = 1, 200
-print(f"\nDisarium numbers between {a} and {b}:\n{disarium_between(a, b)}")
+print(f"\nDisarium numbers between {a} and {b}:\n{disarium_between(a, b)}")
